@@ -2,7 +2,7 @@
 
 BUG_Author: Zhang Qi
 
-Login account: Jonremus/admin
+Login account: admin/admin123
 
 vendors: https://www.sourcecodester.com/php/14957/pharmacy-point-sale-system-using-php-and-sqlite-free-source-code.html
 
