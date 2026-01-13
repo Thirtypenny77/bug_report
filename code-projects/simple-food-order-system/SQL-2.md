@@ -1,4 +1,4 @@
-# Simple Food Order System v1.0 by code-projects has SQL injection 1
+# Simple Food Order System v1.0 by code-projects has SQL injection 2
 
 BUG_Author: Zhang Qi
 
