@@ -1,4 +1,4 @@
-# Simple Gym Management Syste v1.0 by code-projects has SQL injection 5
+# Simple Gym Management Syste v1.0 by code-projects has SQL injection 1
 
 BUG_Author: Zhang Qi
 
